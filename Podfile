@@ -9,14 +9,14 @@ target 'AirportLocator' do
   pod 'Alamofire'
   pod 'SwiftyJSON'
 
-  target 'AirportLocatorAppTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
+#  target 'AirportLocatorAppTests' do
+#    inherit! :search_paths
+#    # Pods for testing
+#  end
 
-  target 'AirportLocatorAppUITests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
+#  target 'AirportLocatorAppUITests' do
+#    inherit! :search_paths
+#    # Pods for testing
+#  end
 
 end

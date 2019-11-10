@@ -1,7 +1,12 @@
 # locate-airport-nearby
 Find Nearby airport with respect to current location. 
 
-# RUN Command
+# Before you start
+Install Xcode 11
+Cocoapods 
+
+# Getting started
+To init the project, run the following commands:
 pod install
 
 # This app using google API to search nearby airports.
